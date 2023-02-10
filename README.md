@@ -1,5 +1,5 @@
 This program is a text-based Java program allowing 2-4 players to play a game of Scrabble on the computer, eliminating the need for a physical gameboard. 
-This game was created using pbject orientated programming principles.
+This game was created using object orientated programming principles.
 
 **TRY IT OUT:**
   - Download the repository onto your computer.
